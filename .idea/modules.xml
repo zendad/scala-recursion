@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" filepath="$PROJECT_DIR$/.idea/modules/progfun1-recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun_30.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun_30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun_30-build.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun_30-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>
